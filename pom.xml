@@ -30,7 +30,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-maven-snapshot2-repo</id>
-            <url>http://13.127.242.63:8081/repository/maven-snapshot2-repo/</url>
+            <url>http://13.61.147.80:8081/repository/maven-snapshot-repo/</url>
         </repository>
     </distributionManagement>
 
