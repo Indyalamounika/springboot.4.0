@@ -15,7 +15,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git url: 'https://github.com/umamahesh571/springboot.4.0.git', branch: 'main'
+                git url: 'https://github.com/Indyalamounika/springboot.4.0.git', branch: 'main'
             }
         }
 
